@@ -1,0 +1,6 @@
+name: NightMare
+description: Just Minecraft Nightmare mode
+main: com.august.nightmare.Main
+version: 1.0
+api-version: 1.18
+author: August
